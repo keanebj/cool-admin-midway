@@ -10,6 +10,9 @@ dist/
 .idea/
 run/
 .DS_Store
+.history
+.vscode
+lock
 launch.json
 *.sw*
 *.un~
